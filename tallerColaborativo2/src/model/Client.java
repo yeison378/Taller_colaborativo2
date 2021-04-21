@@ -93,7 +93,7 @@ public class Client {
 	@Override
 	public String toString() {
 		return "Client [idClient=" + idClient + ", lastName=" + lastName + ", name=" + name + ", dateUp=" + dateUp
-				+ ", phone=" + phone + ", email=" + email + ", credits=" + credits + "]";
+				+ ", phone=" + phone + ", email=" + email + "]";
 	}
 
 }
